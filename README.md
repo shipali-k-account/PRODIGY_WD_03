@@ -5,7 +5,6 @@ Challenge your friends and experience the excitement of the classic 3x3 board ga
 
 ✨ Key Features
 - Two-player gameplay
-- Animated winning line display
 - Real-time winning and draw notifications
 - Restart option to play multiple rounds
 

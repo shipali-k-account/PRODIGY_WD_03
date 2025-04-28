@@ -17,4 +17,4 @@ Challenge your friends and experience the excitement of the classic 3x3 board ga
 📸 Project Screenshot
 
 
-![Tic-Tac-Toe Screenshot](images/screenshot.png)
+![Tic-Tac-Toe Screenshot](images/Screenshot.png)
